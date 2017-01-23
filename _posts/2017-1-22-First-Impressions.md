@@ -21,7 +21,7 @@ Next week I'm going to continue to get settled into school and hopefully be able
 
 I think this would be a pretty nice class. I actually enjoy this assignment, something not too time consuming but still have to do. I took Fraij's Algorithms class and enjoyed it so I've decided take this class with him as well! Hopefully it's just as interesting if not more. I've heard good things about this class and hope that I will learn more useful things for industry.
 
-####Tip-of-the-week: 
+**Tip-of-the-week:** 
 [Stache](https://stache.security.utexas.edu) is a service created by UT Austin for secure sharing and backups of sensitive data available to all UT students (I believe). Check it out and maybe you might have a use case for it!
 
-####Todo: Finish Collatz base program and connection with Travis.
+**Todo: Finish Collatz base program and connection with Travis.**
