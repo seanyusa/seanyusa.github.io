@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time for Break
+title: Time for a Break
 ---
 
 It has been a nice week of exams. Finally most of them have passed. I still have another exam right before spring break but that is for my music class and it shouldn't be too bad. Going to be a great time for a week longs break to get ready for the last half of the semester. I will be able to get a chance to go back home for a bit.
